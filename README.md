@@ -43,6 +43,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [RGBASM](https://github.com/tobiasvl/tree-sitter-rgbasm)
   * [6809](https://github.com/georgjz/tree-sitter-6809)
   * [smcat](https://github.com/sverweij/tree-sitter-smcat)
+  * [pi](https://github.com/scmlab/tree-sitter-pi)
 
 ## Language bindings
 
