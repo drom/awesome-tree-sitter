@@ -38,6 +38,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 ## Other grammars
 
   * [Fortran](https://github.com/stadelmanma/tree-sitter-fortran)
+  * [PowerShell](https://github.com/jrsconfitto/tree-sitter-powershell)
 
 ## Language bindings
 
