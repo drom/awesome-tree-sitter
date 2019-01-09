@@ -56,6 +56,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [Haskell](https://github.com/tree-sitter/haskell-tree-sitter)
   * [Rust](https://github.com/tree-sitter/rust-tree-sitter)
   * [Ruby](https://github.com/tree-sitter/ruby-tree-sitter)
+  * [Vala](https://gitlab.gnome.org/albfan/vala-tree-sitter)
   * https://github.com/stereobooster/tree-sitter-wasm ?
 
 ## Atom language support
