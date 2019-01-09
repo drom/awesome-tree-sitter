@@ -7,6 +7,8 @@ https://github.com/tree-sitter
 
 ## Official grammars
 
+### Parsers for these languages are fairly complete:
+
   * Bash
   * C
   * C++
@@ -22,13 +24,14 @@ https://github.com/tree-sitter
   * Rust
   * TypeScript
 
+### Parsers for these languages are in development:
+
   * Agda
   * C-sharp
   * Haskell
   * Java
   * Julia
   * Scala
-
   * [verilog](https://github.com/tree-sitter/tree-sitter-verilog)
 
 ## Other grammars
