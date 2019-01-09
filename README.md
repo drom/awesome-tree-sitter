@@ -10,49 +10,59 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 
 ### Parsers for these languages are fairly complete:
 
-  * Bash
-  * C
-  * C++
-  * CSS
-  * ERB / EJS
-  * Go
-  * HTML
-  * JavaScript
-  * OCaml
-  * PHP
-  * Python
-  * Ruby
-  * Rust
-  * TypeScript
+  * [JavaScript](https://github.com/tree-sitter/tree-sitter-javascript)
+  * [Python](https://github.com/tree-sitter/tree-sitter-python)
+  * [Go](https://github.com/tree-sitter/tree-sitter-go)
+  * [C++](https://github.com/tree-sitter/tree-sitter-cpp)
+  * [Bash](https://github.com/tree-sitter/tree-sitter-bash)
+  * [Rust](https://github.com/tree-sitter/tree-sitter-rust)
+  * [Ruby]https://github.com/tree-sitter/tree-sitter-ruby)
+  * [C](https://github.com/tree-sitter/tree-sitter-c)
+  * [TypeScript](https://github.com/tree-sitter/tree-sitter-typescript)
+  * [OCaml](https://github.com/tree-sitter/tree-sitter-ocaml)
+  * [CSS](https://github.com/tree-sitter/tree-sitter-css)
+  * [HTML](https://github.com/tree-sitter/tree-sitter-html)
+  * [JSON](https://github.com/tree-sitter/tree-sitter-json)
+  * [PHP](https://github.com/tree-sitter/tree-sitter-php)
+  * [ERB / EJS](https://github.com/tree-sitter/tree-sitter-embedded-template)
 
 ### Parsers for these languages are in development:
 
-  * Agda
-  * C-sharp
-  * Haskell
-  * Java
-  * Julia
-  * Scala
-  * [verilog](https://github.com/tree-sitter/tree-sitter-verilog)
+  * [Haskell](https://github.com/tree-sitter/tree-sitter-haskell)
+  * [Scala](https://github.com/tree-sitter/tree-sitter-scala)
+  * [Verilog](https://github.com/tree-sitter/tree-sitter-verilog)
+  * [Java](https://github.com/tree-sitter/tree-sitter-java)
+  * [Agda](https://github.com/tree-sitter/tree-sitter-agda)
+  * [C-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp)
+  * [Swift](https://github.com/tree-sitter/tree-sitter-swift) - 2015
+  * [Julia](https://github.com/tree-sitter/tree-sitter-julia)
 
 ## Other grammars
 
-  * [Fortran](https://github.com/stadelmanma/tree-sitter-fortran)
+  * [LaTex](https://github.com/yitzchak/tree-sitter-latex)
+  * [Clojure](https://github.com/oakmac/tree-sitter-clojure)
+  * [Lua](https://github.com/Azganoth/tree-sitter-lua)
   * [PowerShell](https://github.com/jrsconfitto/tree-sitter-powershell)
-  * [Lua](https://github.com/Reisz/tree-sitter-lua)
+  * [BLIF](https://github.com/gaffe-logic/tree-sitter-blif)
+  * [Fortran](https://github.com/stadelmanma/tree-sitter-fortran)
   * [RGBASM](https://github.com/tobiasvl/tree-sitter-rgbasm)
   * [6809](https://github.com/georgjz/tree-sitter-6809)
   * [smcat](https://github.com/sverweij/tree-sitter-smcat)
   * [pi](https://github.com/scmlab/tree-sitter-pi)
-
+  
 ## Language bindings
 
-  * JavaScript
-  * Rust
-  * Haskell
-  * Ruby
+  * [JavaScript / Node](https://github.com/tree-sitter/node-tree-sitter)
+  * [Haskell](https://github.com/tree-sitter/haskell-tree-sitter)
+  * [Rust](https://github.com/tree-sitter/rust-tree-sitter)
+  * [Ruby](https://github.com/tree-sitter/ruby-tree-sitter)
+  * https://github.com/stereobooster/tree-sitter-wasm ?
+
+## Atom language support
+
+  * [Python](https://github.com/atom/language-python)
+  * [Ruby](https://github.com/atom/language-ruby)
 
 ## Tools
-
 
 
