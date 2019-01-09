@@ -1,4 +1,4 @@
-# Awesome tree-sitter
+# Awesome tree-sitter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Curated list of awesome tree-sitter language grammars, bindings, tools, libraries
 
