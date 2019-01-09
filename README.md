@@ -16,7 +16,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [C++](https://github.com/tree-sitter/tree-sitter-cpp)
   * [Bash](https://github.com/tree-sitter/tree-sitter-bash)
   * [Rust](https://github.com/tree-sitter/tree-sitter-rust)
-  * [Ruby]https://github.com/tree-sitter/tree-sitter-ruby)
+  * [Ruby](https://github.com/tree-sitter/tree-sitter-ruby)
   * [C](https://github.com/tree-sitter/tree-sitter-c)
   * [TypeScript](https://github.com/tree-sitter/tree-sitter-typescript)
   * [OCaml](https://github.com/tree-sitter/tree-sitter-ocaml)
