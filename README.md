@@ -39,7 +39,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 
 ## Other grammars
 
-  * [LaTex](https://github.com/yitzchak/tree-sitter-latex)
+  * [LaTeX](https://github.com/yitzchak/tree-sitter-latex)
   * [Clojure](https://github.com/oakmac/tree-sitter-clojure)
   * [Lua](https://github.com/Azganoth/tree-sitter-lua)
   * [PowerShell](https://github.com/jrsconfitto/tree-sitter-powershell)
