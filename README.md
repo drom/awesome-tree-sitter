@@ -25,6 +25,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [JSON](https://github.com/tree-sitter/tree-sitter-json)
   * [PHP](https://github.com/tree-sitter/tree-sitter-php)
   * [ERB / EJS](https://github.com/tree-sitter/tree-sitter-embedded-template)
+  * [SytemRDL](https://github.com/drom/tree-sitter-systemrdl)
 
 ### Parsers for these languages are in development:
 
