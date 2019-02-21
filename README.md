@@ -37,6 +37,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [C-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp)
   * [Swift](https://github.com/tree-sitter/tree-sitter-swift) - 2015
   * [Julia](https://github.com/tree-sitter/tree-sitter-julia)
+  * [Elm](https://github.com/razzeee/tree-sitter-elm)
 
 ## Other grammars
 
