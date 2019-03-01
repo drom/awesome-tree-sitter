@@ -68,5 +68,6 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [Ruby](https://github.com/atom/language-ruby)
 
 ## Tools
+  * [EMACS](https://github.com/karlotness/tree-sitter.el) An Emacs dynamic module exposing tree-sitter.
 
 
