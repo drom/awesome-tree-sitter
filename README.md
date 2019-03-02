@@ -26,12 +26,12 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [PHP](https://github.com/tree-sitter/tree-sitter-php)
   * [ERB / EJS](https://github.com/tree-sitter/tree-sitter-embedded-template)
   * [SytemRDL](https://github.com/drom/tree-sitter-systemrdl)
+  * [Verilog](https://github.com/tree-sitter/tree-sitter-verilog)
 
 ### Parsers for these languages are in development:
 
   * [Haskell](https://github.com/tree-sitter/tree-sitter-haskell)
   * [Scala](https://github.com/tree-sitter/tree-sitter-scala)
-  * [Verilog](https://github.com/tree-sitter/tree-sitter-verilog)
   * [Java](https://github.com/tree-sitter/tree-sitter-java)
   * [Agda](https://github.com/tree-sitter/tree-sitter-agda)
   * [C-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp)
