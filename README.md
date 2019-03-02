@@ -51,6 +51,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [6809](https://github.com/georgjz/tree-sitter-6809)
   * [smcat](https://github.com/sverweij/tree-sitter-smcat)
   * [pi](https://github.com/scmlab/tree-sitter-pi)
+  * [GraphQL](https://github.com/dralletje/tree-sitter-graphql)
   
 ## Language bindings
 
