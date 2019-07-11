@@ -70,5 +70,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 
 ## Tools
   * [EMACS](https://github.com/karlotness/tree-sitter.el) An Emacs dynamic module exposing tree-sitter.
+  * [VSCODE](https://github.com/georgewfraser/vscode-tree-sitter) Accurate syntax coloring for VSCode using tree-sitter
+
 
 
