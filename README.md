@@ -6,9 +6,7 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * https://github.com/tree-sitter
   * https://github.com/topics/tree-sitter
 
-## Official grammars
-
-### Parsers for these languages are fairly complete:
+## Grammars
 
   * [JavaScript](https://github.com/tree-sitter/tree-sitter-javascript)
   * [Python](https://github.com/tree-sitter/tree-sitter-python)
@@ -27,9 +25,6 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [ERB / EJS](https://github.com/tree-sitter/tree-sitter-embedded-template)
   * [SytemRDL](https://github.com/drom/tree-sitter-systemrdl)
   * [Verilog](https://github.com/tree-sitter/tree-sitter-verilog)
-
-### Parsers for these languages are in development:
-
   * [Haskell](https://github.com/tree-sitter/tree-sitter-haskell)
   * [Scala](https://github.com/tree-sitter/tree-sitter-scala)
   * [Java](https://github.com/tree-sitter/tree-sitter-java)
@@ -38,9 +33,6 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [Swift](https://github.com/tree-sitter/tree-sitter-swift) - 2015
   * [Julia](https://github.com/tree-sitter/tree-sitter-julia)
   * [Elm](https://github.com/razzeee/tree-sitter-elm)
-
-## Other grammars
-
   * [LaTeX](https://github.com/yitzchak/tree-sitter-latex)
   * [Clojure](https://github.com/oakmac/tree-sitter-clojure)
   * [Lua](https://github.com/Azganoth/tree-sitter-lua)
@@ -52,6 +44,8 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [smcat](https://github.com/sverweij/tree-sitter-smcat)
   * [pi](https://github.com/scmlab/tree-sitter-pi)
   * [GraphQL](https://github.com/dralletje/tree-sitter-graphql)
+  * [JSDoc](https://github.com/tree-sitter/tree-sitter-jsdoc)
+  * [RegEx](https://github.com/tree-sitter/tree-sitter-regex)
   
 ## Language bindings
 
