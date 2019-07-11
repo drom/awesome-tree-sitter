@@ -8,6 +8,8 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
 
 ## Grammars
 
+### Tree Sitter Org
+
   * [JavaScript](https://github.com/tree-sitter/tree-sitter-javascript)
   * [Python](https://github.com/tree-sitter/tree-sitter-python)
   * [Go](https://github.com/tree-sitter/tree-sitter-go)
@@ -23,7 +25,6 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [JSON](https://github.com/tree-sitter/tree-sitter-json)
   * [PHP](https://github.com/tree-sitter/tree-sitter-php)
   * [ERB / EJS](https://github.com/tree-sitter/tree-sitter-embedded-template)
-  * [SytemRDL](https://github.com/drom/tree-sitter-systemrdl)
   * [Verilog](https://github.com/tree-sitter/tree-sitter-verilog)
   * [Haskell](https://github.com/tree-sitter/tree-sitter-haskell)
   * [Scala](https://github.com/tree-sitter/tree-sitter-scala)
@@ -32,6 +33,12 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [C-sharp](https://github.com/tree-sitter/tree-sitter-c-sharp)
   * [Swift](https://github.com/tree-sitter/tree-sitter-swift) - 2015
   * [Julia](https://github.com/tree-sitter/tree-sitter-julia)
+  * [JSDoc](https://github.com/tree-sitter/tree-sitter-jsdoc)
+  * [RegEx](https://github.com/tree-sitter/tree-sitter-regex)
+
+### Others
+
+  * [SytemRDL](https://github.com/SystemRDL/tree-sitter-systemrdl)
   * [Elm](https://github.com/razzeee/tree-sitter-elm)
   * [LaTeX](https://github.com/yitzchak/tree-sitter-latex)
   * [Clojure](https://github.com/oakmac/tree-sitter-clojure)
@@ -44,8 +51,6 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [smcat](https://github.com/sverweij/tree-sitter-smcat)
   * [pi](https://github.com/scmlab/tree-sitter-pi)
   * [GraphQL](https://github.com/dralletje/tree-sitter-graphql)
-  * [JSDoc](https://github.com/tree-sitter/tree-sitter-jsdoc)
-  * [RegEx](https://github.com/tree-sitter/tree-sitter-regex)
   
 ## Language bindings
 
@@ -54,8 +59,8 @@ Curated list of awesome tree-sitter language grammars, bindings, tools, librarie
   * [Rust](https://github.com/tree-sitter/rust-tree-sitter)
   * [Ruby](https://github.com/tree-sitter/ruby-tree-sitter)
   * [Vala](https://gitlab.gnome.org/albfan/vala-tree-sitter)
-  * [Go](https://github.com/smacker/go-tree-sitter)
   * [Python 3](https://github.com/tree-sitter/py-tree-sitter)
+  * [Go](https://github.com/smacker/go-tree-sitter)
   * https://github.com/stereobooster/tree-sitter-wasm ?
 
 ## Atom language support
